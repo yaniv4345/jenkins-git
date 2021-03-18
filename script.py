@@ -1,4 +1,4 @@
 #!/bin/python3
 
-print("Hello from python script")
+print("Second hello from python script")
 
